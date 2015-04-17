@@ -33,6 +33,7 @@ you can debug the issue yourself.
 * [Exuberant Ctags] for indexing files for vim tab completion
 * [Foreman] for managing web processes
 * [Git] for version control
+* [Git Smart] for some additional git commands
 * [Heroku Toolbelt] for interacting with the Heroku API
 * [Homebrew] for managing operating system libraries
 * [Hub] for interacting with the GitHub API
@@ -56,6 +57,7 @@ you can debug the issue yourself.
 [Exuberant Ctags]: http://ctags.sourceforge.net/
 [Foreman]: https://github.com/ddollar/foreman
 [Git]: http://git-scm.com/
+[Git Smart]: https://github.com/geelen/git-smart
 [Heroku Toolbelt]: https://toolbelt.heroku.com/
 [Homebrew]: http://brew.sh/
 [Hub]: https://github.com/github/hub

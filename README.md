@@ -43,6 +43,7 @@ you can debug the issue yourself.
 * [Redis] for storing key-value data
 * [Ruby Install] for installing Rubies
 * [Ruby] stable for writing general-purpose code
+* [Selecta] for quick navigation to projects
 * [The Silver Searcher] for finding things in files
 * [Tmux] for saving project state and switching between projects
 * [Zsh] as your shell
@@ -64,6 +65,7 @@ you can debug the issue yourself.
 [Redis]: http://redis.io/
 [Ruby Install]: https://github.com/postmodern/ruby-install
 [Ruby]: https://www.ruby-lang.org/en/
+[Selecta]: https://github.com/garybernhardt/selecta
 [The Silver Searcher]: https://github.com/ggreer/the_silver_searcher
 [Tmux]: http://tmux.sourceforge.net/
 [Zsh]: http://www.zsh.org/

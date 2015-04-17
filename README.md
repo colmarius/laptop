@@ -29,6 +29,7 @@ you can debug the issue yourself.
 
 * [Bundler] for managing Ruby libraries
 * [Chruby] for managing versions of Ruby
+* [Elastic Search] for implementing full-text search solution
 * [Exuberant Ctags] for indexing files for vim tab completion
 * [Foreman] for managing web processes
 * [Heroku Toolbelt] for interacting with the Heroku API
@@ -48,6 +49,7 @@ you can debug the issue yourself.
 
 [Bundler]: http://bundler.io/
 [Chruby]: https://github.com/postmodern/chruby
+[Elastic Search]: https://www.elastic.co/
 [Exuberant Ctags]: http://ctags.sourceforge.net/
 [Foreman]: https://github.com/ddollar/foreman
 [Heroku Toolbelt]: https://toolbelt.heroku.com/

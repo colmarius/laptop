@@ -35,6 +35,7 @@ you can debug the issue yourself.
 * [Homebrew] for managing operating system libraries
 * [Hub] for interacting with the GitHub API
 * [ImageMagick] for cropping and resizing images
+* [Mongo] for storing nosql data
 * [Node.js] and [NPM], for running apps and installing JavaScript packages
 * [Postgres] for storing relational data
 * [Qt] for headless JavaScript testing via Capybara Webkit
@@ -53,6 +54,7 @@ you can debug the issue yourself.
 [Homebrew]: http://brew.sh/
 [Hub]: https://github.com/github/hub
 [ImageMagick]: http://www.imagemagick.org/
+[Mongo]: https://www.mongodb.org/
 [Node.js]: http://nodejs.org/
 [NPM]: https://www.npmjs.org/
 [Postgres]: http://www.postgresql.org/

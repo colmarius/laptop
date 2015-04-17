@@ -46,6 +46,7 @@ you can debug the issue yourself.
 * [Selecta] for quick navigation to projects
 * [The Silver Searcher] for finding things in files
 * [Tmux] for saving project state and switching between projects
+* [Tmuxinator] for managing complex tmux sessions easily
 * [Zsh] as your shell
 
 [Bundler]: http://bundler.io/
@@ -68,6 +69,7 @@ you can debug the issue yourself.
 [Selecta]: https://github.com/garybernhardt/selecta
 [The Silver Searcher]: https://github.com/ggreer/the_silver_searcher
 [Tmux]: http://tmux.sourceforge.net/
+[Tmuxinator]: https://github.com/tmuxinator/tmuxinator
 [Zsh]: http://www.zsh.org/
 
 It should take less than 15 minutes to install (depends on your machine).

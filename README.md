@@ -32,6 +32,7 @@ you can debug the issue yourself.
 * [Elastic Search] for implementing full-text search solution
 * [Exuberant Ctags] for indexing files for vim tab completion
 * [Foreman] for managing web processes
+* [Git] for version control
 * [Heroku Toolbelt] for interacting with the Heroku API
 * [Homebrew] for managing operating system libraries
 * [Hub] for interacting with the GitHub API
@@ -54,6 +55,7 @@ you can debug the issue yourself.
 [Elastic Search]: https://www.elastic.co/
 [Exuberant Ctags]: http://ctags.sourceforge.net/
 [Foreman]: https://github.com/ddollar/foreman
+[Git]: http://git-scm.com/
 [Heroku Toolbelt]: https://toolbelt.heroku.com/
 [Homebrew]: http://brew.sh/
 [Hub]: https://github.com/github/hub

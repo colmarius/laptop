@@ -122,6 +122,7 @@ brew_install_or_upgrade 'openssl'
 brew unlink openssl && brew link openssl --force
 brew_install_or_upgrade 'libyaml'
 brew_install_or_upgrade 'heroku-toolbelt'
+brew_install_or_upgrade 'terminal-notifier'
 
 ruby_version="$(curl -sSL https://raw.githubusercontent.com/colmarius/dot-files/master/files/.ruby-version)"
 
